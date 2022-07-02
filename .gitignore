@@ -1,0 +1,12 @@
+# Ignorar todos los archivos .o creados en la compilación
+*.o
+
+# Ignorar el directorio creado por VisualStudioCode
+.vscode/
+
+# Ignorar ejecutables creados en la compilación
+mybash
+.depend
+
+# Ignorar el directorio Tests
+tests/
